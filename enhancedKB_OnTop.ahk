@@ -4,6 +4,6 @@
 ^!vkBE::Send, >
 !\::Send, ~
 ^!\::Send, ~
-!1::Send, ¬
-^!1::Send, ¬
+!1::Send, Â¬
+^!1::Send, Â¬
 ^SPACE::  Winset, Alwaysontop, , A
